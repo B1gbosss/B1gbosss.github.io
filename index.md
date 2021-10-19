@@ -62,7 +62,6 @@
             <td>1000</td>
         </tr>
     </table>
-    <img src="I:\vscd\A.jpg" width="500px" title="yyds">
     <br>
     <img src="i/a.jpg" alt="图片被肖战偷了">
 
